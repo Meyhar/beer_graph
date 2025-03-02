@@ -1,0 +1,4229 @@
+{
+    "name": "Beer Styles",
+    "children": [
+        {
+            "name": "Midwest",
+            "children": [
+                {
+                    "name": " IA",
+                    "children": [
+                        {
+                            "name": "American Amber / Red Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Blonde Ale",
+                            "size": 3
+                        },
+                        {
+                            "name": "American Brown Ale",
+                            "size": 3
+                        },
+                        {
+                            "name": "American IPA",
+                            "size": 3
+                        },
+                        {
+                            "name": "American Pale Ale (APA)",
+                            "size": 3
+                        },
+                        {
+                            "name": "American Stout",
+                            "size": 2
+                        },
+                        {
+                            "name": "Doppelbock",
+                            "size": 1
+                        },
+                        {
+                            "name": "Fruit / Vegetable Beer",
+                            "size": 1
+                        },
+                        {
+                            "name": "German Pilsener",
+                            "size": 1
+                        },
+                        {
+                            "name": "Irish Red Ale",
+                            "size": 3
+                        },
+                        {
+                            "name": "K\u00f6lsch",
+                            "size": 1
+                        },
+                        {
+                            "name": "M\u00e4rzen / Oktoberfest",
+                            "size": 1
+                        },
+                        {
+                            "name": "Rye Beer",
+                            "size": 2
+                        },
+                        {
+                            "name": "Saison / Farmhouse Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Scottish Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Vienna Lager",
+                            "size": 2
+                        },
+                        {
+                            "name": "Witbier",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": " IL",
+                    "children": [
+                        {
+                            "name": "Abbey Single Ale",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Amber / Red Ale",
+                            "size": 4
+                        },
+                        {
+                            "name": "American Black Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Blonde Ale",
+                            "size": 3
+                        },
+                        {
+                            "name": "American Brown Ale",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Dark Wheat Ale",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Double / Imperial IPA",
+                            "size": 9
+                        },
+                        {
+                            "name": "American Double / Imperial Pilsner",
+                            "size": 1
+                        },
+                        {
+                            "name": "American IPA",
+                            "size": 12
+                        },
+                        {
+                            "name": "American Pale Ale (APA)",
+                            "size": 16
+                        },
+                        {
+                            "name": "American Pale Wheat Ale",
+                            "size": 6
+                        },
+                        {
+                            "name": "American Porter",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Stout",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Strong Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Belgian IPA",
+                            "size": 2
+                        },
+                        {
+                            "name": "Belgian Pale Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Belgian Strong Dark Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Berliner Weissbier",
+                            "size": 1
+                        },
+                        {
+                            "name": "Bi\u00e8re de Garde",
+                            "size": 1
+                        },
+                        {
+                            "name": "Dortmunder / Export Lager",
+                            "size": 1
+                        },
+                        {
+                            "name": "English India Pale Ale (IPA)",
+                            "size": 2
+                        },
+                        {
+                            "name": "Extra Special / Strong Bitter (ESB)",
+                            "size": 1
+                        },
+                        {
+                            "name": "Fruit / Vegetable Beer",
+                            "size": 3
+                        },
+                        {
+                            "name": "German Pilsener",
+                            "size": 1
+                        },
+                        {
+                            "name": "Gose",
+                            "size": 1
+                        },
+                        {
+                            "name": "Hefeweizen",
+                            "size": 1
+                        },
+                        {
+                            "name": "Herbed / Spiced Beer",
+                            "size": 2
+                        },
+                        {
+                            "name": "Irish Red Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "M\u00e4rzen / Oktoberfest",
+                            "size": 2
+                        },
+                        {
+                            "name": "Oatmeal Stout",
+                            "size": 1
+                        },
+                        {
+                            "name": "Pumpkin Ale",
+                            "size": 2
+                        },
+                        {
+                            "name": "Saison / Farmhouse Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Tripel",
+                            "size": 1
+                        },
+                        {
+                            "name": "Witbier",
+                            "size": 2
+                        }
+                    ]
+                },
+                {
+                    "name": " IN",
+                    "children": [
+                        {
+                            "name": "Altbier",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Amber / Red Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Black Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Blonde Ale",
+                            "size": 6
+                        },
+                        {
+                            "name": "American Brown Ale",
+                            "size": 3
+                        },
+                        {
+                            "name": "American Dark Wheat Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Double / Imperial IPA",
+                            "size": 5
+                        },
+                        {
+                            "name": "American IPA",
+                            "size": 26
+                        },
+                        {
+                            "name": "American Pale Ale (APA)",
+                            "size": 13
+                        },
+                        {
+                            "name": "American Pale Lager",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Pale Wheat Ale",
+                            "size": 5
+                        },
+                        {
+                            "name": "American Porter",
+                            "size": 9
+                        },
+                        {
+                            "name": "American Stout",
+                            "size": 1
+                        },
+                        {
+                            "name": "Belgian Dark Ale",
+                            "size": 2
+                        },
+                        {
+                            "name": "Belgian IPA",
+                            "size": 3
+                        },
+                        {
+                            "name": "Belgian Pale Ale",
+                            "size": 2
+                        },
+                        {
+                            "name": "Belgian Strong Dark Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Belgian Strong Pale Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "California Common / Steam Beer",
+                            "size": 1
+                        },
+                        {
+                            "name": "Cream Ale",
+                            "size": 2
+                        },
+                        {
+                            "name": "Czech Pilsener",
+                            "size": 2
+                        },
+                        {
+                            "name": "Doppelbock",
+                            "size": 1
+                        },
+                        {
+                            "name": "Dortmunder / Export Lager",
+                            "size": 4
+                        },
+                        {
+                            "name": "Dubbel",
+                            "size": 1
+                        },
+                        {
+                            "name": "English Barleywine",
+                            "size": 2
+                        },
+                        {
+                            "name": "English Brown Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "English Dark Mild Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "English Stout",
+                            "size": 1
+                        },
+                        {
+                            "name": "English Strong Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Euro Dark Lager",
+                            "size": 1
+                        },
+                        {
+                            "name": "Extra Special / Strong Bitter (ESB)",
+                            "size": 1
+                        },
+                        {
+                            "name": "Flanders Oud Bruin",
+                            "size": 1
+                        },
+                        {
+                            "name": "Fruit / Vegetable Beer",
+                            "size": 5
+                        },
+                        {
+                            "name": "German Pilsener",
+                            "size": 2
+                        },
+                        {
+                            "name": "Irish Dry Stout",
+                            "size": 1
+                        },
+                        {
+                            "name": "Irish Red Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "K\u00f6lsch",
+                            "size": 2
+                        },
+                        {
+                            "name": "M\u00e4rzen / Oktoberfest",
+                            "size": 3
+                        },
+                        {
+                            "name": "Oatmeal Stout",
+                            "size": 3
+                        },
+                        {
+                            "name": "Quadrupel (Quad)",
+                            "size": 1
+                        },
+                        {
+                            "name": "Roggenbier",
+                            "size": 1
+                        },
+                        {
+                            "name": "Russian Imperial Stout",
+                            "size": 2
+                        },
+                        {
+                            "name": "Rye Beer",
+                            "size": 1
+                        },
+                        {
+                            "name": "Saison / Farmhouse Ale",
+                            "size": 3
+                        },
+                        {
+                            "name": "Scotch Ale / Wee Heavy",
+                            "size": 5
+                        },
+                        {
+                            "name": "Scottish Ale",
+                            "size": 4
+                        },
+                        {
+                            "name": "Witbier",
+                            "size": 3
+                        }
+                    ]
+                },
+                {
+                    "name": " KS",
+                    "children": [
+                        {
+                            "name": "American Amber / Red Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Brown Ale",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Double / Imperial IPA",
+                            "size": 1
+                        },
+                        {
+                            "name": "American IPA",
+                            "size": 3
+                        },
+                        {
+                            "name": "American Pale Ale (APA)",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Pale Wheat Ale",
+                            "size": 3
+                        },
+                        {
+                            "name": "American Porter",
+                            "size": 1
+                        },
+                        {
+                            "name": "English Pale Mild Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Extra Special / Strong Bitter (ESB)",
+                            "size": 1
+                        },
+                        {
+                            "name": "Fruit / Vegetable Beer",
+                            "size": 1
+                        },
+                        {
+                            "name": "German Pilsener",
+                            "size": 1
+                        },
+                        {
+                            "name": "Milk / Sweet Stout",
+                            "size": 2
+                        },
+                        {
+                            "name": "Oatmeal Stout",
+                            "size": 1
+                        },
+                        {
+                            "name": "Saison / Farmhouse Ale",
+                            "size": 2
+                        },
+                        {
+                            "name": "Tripel",
+                            "size": 2
+                        }
+                    ]
+                },
+                {
+                    "name": " MI",
+                    "children": [
+                        {
+                            "name": "Altbier",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Adjunct Lager",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Amber / Red Ale",
+                            "size": 11
+                        },
+                        {
+                            "name": "American Black Ale",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Blonde Ale",
+                            "size": 4
+                        },
+                        {
+                            "name": "American Brown Ale",
+                            "size": 6
+                        },
+                        {
+                            "name": "American Double / Imperial IPA",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Double / Imperial Stout",
+                            "size": 2
+                        },
+                        {
+                            "name": "American IPA",
+                            "size": 20
+                        },
+                        {
+                            "name": "American Pale Ale (APA)",
+                            "size": 7
+                        },
+                        {
+                            "name": "American Pale Lager",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Pale Wheat Ale",
+                            "size": 5
+                        },
+                        {
+                            "name": "American Porter",
+                            "size": 5
+                        },
+                        {
+                            "name": "American Stout",
+                            "size": 4
+                        },
+                        {
+                            "name": "American Wild Ale",
+                            "size": 2
+                        },
+                        {
+                            "name": "Belgian Dark Ale",
+                            "size": 7
+                        },
+                        {
+                            "name": "Belgian IPA",
+                            "size": 8
+                        },
+                        {
+                            "name": "Belgian Pale Ale",
+                            "size": 4
+                        },
+                        {
+                            "name": "Belgian Strong Dark Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Belgian Strong Pale Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Bi\u00e8re de Garde",
+                            "size": 4
+                        },
+                        {
+                            "name": "Cider",
+                            "size": 13
+                        },
+                        {
+                            "name": "Cream Ale",
+                            "size": 2
+                        },
+                        {
+                            "name": "Czech Pilsener",
+                            "size": 2
+                        },
+                        {
+                            "name": "Doppelbock",
+                            "size": 1
+                        },
+                        {
+                            "name": "Dubbel",
+                            "size": 2
+                        },
+                        {
+                            "name": "Dunkelweizen",
+                            "size": 1
+                        },
+                        {
+                            "name": "English Brown Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Foreign / Export Stout",
+                            "size": 1
+                        },
+                        {
+                            "name": "Fruit / Vegetable Beer",
+                            "size": 4
+                        },
+                        {
+                            "name": "Hefeweizen",
+                            "size": 1
+                        },
+                        {
+                            "name": "Irish Red Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Milk / Sweet Stout",
+                            "size": 1
+                        },
+                        {
+                            "name": "Munich Helles Lager",
+                            "size": 2
+                        },
+                        {
+                            "name": "Oatmeal Stout",
+                            "size": 1
+                        },
+                        {
+                            "name": "Pumpkin Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Quadrupel (Quad)",
+                            "size": 2
+                        },
+                        {
+                            "name": "Rauchbier",
+                            "size": 2
+                        },
+                        {
+                            "name": "Russian Imperial Stout",
+                            "size": 1
+                        },
+                        {
+                            "name": "Rye Beer",
+                            "size": 3
+                        },
+                        {
+                            "name": "Saison / Farmhouse Ale",
+                            "size": 7
+                        },
+                        {
+                            "name": "Scotch Ale / Wee Heavy",
+                            "size": 1
+                        },
+                        {
+                            "name": "Scottish Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Tripel",
+                            "size": 3
+                        },
+                        {
+                            "name": "Winter Warmer",
+                            "size": 1
+                        },
+                        {
+                            "name": "Witbier",
+                            "size": 7
+                        }
+                    ]
+                },
+                {
+                    "name": " MN",
+                    "children": [
+                        {
+                            "name": "American Black Ale",
+                            "size": 4
+                        },
+                        {
+                            "name": "American Blonde Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Brown Ale",
+                            "size": 3
+                        },
+                        {
+                            "name": "American Double / Imperial IPA",
+                            "size": 4
+                        },
+                        {
+                            "name": "American IPA",
+                            "size": 11
+                        },
+                        {
+                            "name": "American Pale Ale (APA)",
+                            "size": 5
+                        },
+                        {
+                            "name": "American Pale Wheat Ale",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Porter",
+                            "size": 1
+                        },
+                        {
+                            "name": "California Common / Steam Beer",
+                            "size": 1
+                        },
+                        {
+                            "name": "Cream Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "English Bitter",
+                            "size": 1
+                        },
+                        {
+                            "name": "English Brown Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "English India Pale Ale (IPA)",
+                            "size": 1
+                        },
+                        {
+                            "name": "Extra Special / Strong Bitter (ESB)",
+                            "size": 4
+                        },
+                        {
+                            "name": "Fruit / Vegetable Beer",
+                            "size": 1
+                        },
+                        {
+                            "name": "German Pilsener",
+                            "size": 3
+                        },
+                        {
+                            "name": "Keller Bier / Zwickel Bier",
+                            "size": 1
+                        },
+                        {
+                            "name": "Milk / Sweet Stout",
+                            "size": 1
+                        },
+                        {
+                            "name": "Oatmeal Stout",
+                            "size": 1
+                        },
+                        {
+                            "name": "Pumpkin Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Rye Beer",
+                            "size": 2
+                        },
+                        {
+                            "name": "Saison / Farmhouse Ale",
+                            "size": 2
+                        },
+                        {
+                            "name": "Schwarzbier",
+                            "size": 1
+                        },
+                        {
+                            "name": "Shandy",
+                            "size": 1
+                        },
+                        {
+                            "name": "Winter Warmer",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": " MO",
+                    "children": [
+                        {
+                            "name": "American Amber / Red Ale",
+                            "size": 3
+                        },
+                        {
+                            "name": "American Black Ale",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Blonde Ale",
+                            "size": 3
+                        },
+                        {
+                            "name": "American Brown Ale",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Dark Wheat Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "American IPA",
+                            "size": 9
+                        },
+                        {
+                            "name": "American Pale Lager",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Pale Wheat Ale",
+                            "size": 4
+                        },
+                        {
+                            "name": "American Porter",
+                            "size": 1
+                        },
+                        {
+                            "name": "Berliner Weissbier",
+                            "size": 1
+                        },
+                        {
+                            "name": "Bock",
+                            "size": 1
+                        },
+                        {
+                            "name": "Chile Beer",
+                            "size": 2
+                        },
+                        {
+                            "name": "Cream Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "English Stout",
+                            "size": 1
+                        },
+                        {
+                            "name": "Fruit / Vegetable Beer",
+                            "size": 2
+                        },
+                        {
+                            "name": "German Pilsener",
+                            "size": 1
+                        },
+                        {
+                            "name": "Hefeweizen",
+                            "size": 1
+                        },
+                        {
+                            "name": "Munich Helles Lager",
+                            "size": 2
+                        },
+                        {
+                            "name": "M\u00e4rzen / Oktoberfest",
+                            "size": 1
+                        },
+                        {
+                            "name": "Pumpkin Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Schwarzbier",
+                            "size": 2
+                        }
+                    ]
+                },
+                {
+                    "name": " ND",
+                    "children": [
+                        {
+                            "name": "American IPA",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Pale Ale (APA)",
+                            "size": 1
+                        },
+                        {
+                            "name": "Scottish Ale",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": " NE",
+                    "children": [
+                        {
+                            "name": "American Amber / Red Ale",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Brown Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Dark Wheat Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Double / Imperial IPA",
+                            "size": 2
+                        },
+                        {
+                            "name": "American IPA",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Pale Ale (APA)",
+                            "size": 4
+                        },
+                        {
+                            "name": "American Pale Wheat Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Pilsner",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Stout",
+                            "size": 1
+                        },
+                        {
+                            "name": "Braggot",
+                            "size": 1
+                        },
+                        {
+                            "name": "English Brown Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "English India Pale Ale (IPA)",
+                            "size": 1
+                        },
+                        {
+                            "name": "Extra Special / Strong Bitter (ESB)",
+                            "size": 3
+                        },
+                        {
+                            "name": "German Pilsener",
+                            "size": 1
+                        },
+                        {
+                            "name": "Hefeweizen",
+                            "size": 1
+                        },
+                        {
+                            "name": "Pumpkin Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Saison / Farmhouse Ale",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": " OH",
+                    "children": [
+                        {
+                            "name": "American Amber / Red Ale",
+                            "size": 5
+                        },
+                        {
+                            "name": "American Barleywine",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Blonde Ale",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Brown Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Double / Imperial IPA",
+                            "size": 2
+                        },
+                        {
+                            "name": "American IPA",
+                            "size": 9
+                        },
+                        {
+                            "name": "American Pale Ale (APA)",
+                            "size": 7
+                        },
+                        {
+                            "name": "American Pale Wheat Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Pilsner",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Porter",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Strong Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "American White IPA",
+                            "size": 1
+                        },
+                        {
+                            "name": "Cider",
+                            "size": 3
+                        },
+                        {
+                            "name": "Cream Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "English Brown Ale",
+                            "size": 2
+                        },
+                        {
+                            "name": "Extra Special / Strong Bitter (ESB)",
+                            "size": 1
+                        },
+                        {
+                            "name": "Fruit / Vegetable Beer",
+                            "size": 2
+                        },
+                        {
+                            "name": "K\u00f6lsch",
+                            "size": 1
+                        },
+                        {
+                            "name": "Munich Helles Lager",
+                            "size": 1
+                        },
+                        {
+                            "name": "M\u00e4rzen / Oktoberfest",
+                            "size": 1
+                        },
+                        {
+                            "name": "Oatmeal Stout",
+                            "size": 1
+                        },
+                        {
+                            "name": "Scottish Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Winter Warmer",
+                            "size": 1
+                        },
+                        {
+                            "name": "Witbier",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": " SD",
+                    "children": [
+                        {
+                            "name": "American Amber / Red Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Blonde Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Brown Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "American IPA",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Porter",
+                            "size": 1
+                        },
+                        {
+                            "name": "Cream Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Herbed / Spiced Beer",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": " WI",
+                    "children": [
+                        {
+                            "name": "American Adjunct Lager",
+                            "size": 10
+                        },
+                        {
+                            "name": "American Amber / Red Ale",
+                            "size": 4
+                        },
+                        {
+                            "name": "American Amber / Red Lager",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Black Ale",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Blonde Ale",
+                            "size": 4
+                        },
+                        {
+                            "name": "American Brown Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Double / Imperial IPA",
+                            "size": 1
+                        },
+                        {
+                            "name": "American IPA",
+                            "size": 9
+                        },
+                        {
+                            "name": "American Malt Liquor",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Pale Ale (APA)",
+                            "size": 7
+                        },
+                        {
+                            "name": "American Pale Lager",
+                            "size": 8
+                        },
+                        {
+                            "name": "American Pale Wheat Ale",
+                            "size": 7
+                        },
+                        {
+                            "name": "American Porter",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Stout",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Strong Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "American White IPA",
+                            "size": 1
+                        },
+                        {
+                            "name": "Bock",
+                            "size": 1
+                        },
+                        {
+                            "name": "Cider",
+                            "size": 2
+                        },
+                        {
+                            "name": "Czech Pilsener",
+                            "size": 1
+                        },
+                        {
+                            "name": "German Pilsener",
+                            "size": 1
+                        },
+                        {
+                            "name": "Hefeweizen",
+                            "size": 3
+                        },
+                        {
+                            "name": "K\u00f6lsch",
+                            "size": 1
+                        },
+                        {
+                            "name": "Light Lager",
+                            "size": 2
+                        },
+                        {
+                            "name": "Munich Helles Lager",
+                            "size": 2
+                        },
+                        {
+                            "name": "M\u00e4rzen / Oktoberfest",
+                            "size": 3
+                        },
+                        {
+                            "name": "Oatmeal Stout",
+                            "size": 1
+                        },
+                        {
+                            "name": "Saison / Farmhouse Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Vienna Lager",
+                            "size": 6
+                        },
+                        {
+                            "name": "Winter Warmer",
+                            "size": 1
+                        },
+                        {
+                            "name": "Witbier",
+                            "size": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Northeast",
+            "children": [
+                {
+                    "name": " CT",
+                    "children": [
+                        {
+                            "name": "American Amber / Red Ale",
+                            "size": 4
+                        },
+                        {
+                            "name": "American Black Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Blonde Ale",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Double / Imperial IPA",
+                            "size": 4
+                        },
+                        {
+                            "name": "American IPA",
+                            "size": 4
+                        },
+                        {
+                            "name": "American Pale Lager",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Pilsner",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Porter",
+                            "size": 1
+                        },
+                        {
+                            "name": "American White IPA",
+                            "size": 1
+                        },
+                        {
+                            "name": "Belgian Pale Ale",
+                            "size": 2
+                        },
+                        {
+                            "name": "Berliner Weissbier",
+                            "size": 1
+                        },
+                        {
+                            "name": "Fruit / Vegetable Beer",
+                            "size": 1
+                        },
+                        {
+                            "name": "German Pilsener",
+                            "size": 1
+                        },
+                        {
+                            "name": "Hefeweizen",
+                            "size": 1
+                        },
+                        {
+                            "name": "Saison / Farmhouse Ale",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": " DC",
+                    "children": [
+                        {
+                            "name": "American Blonde Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Double / Imperial IPA",
+                            "size": 1
+                        },
+                        {
+                            "name": "American IPA",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Pale Ale (APA)",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Porter",
+                            "size": 1
+                        },
+                        {
+                            "name": "Belgian Pale Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Hefeweizen",
+                            "size": 1
+                        },
+                        {
+                            "name": "Scotch Ale / Wee Heavy",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": " DE",
+                    "children": [
+                        {
+                            "name": "American IPA",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Pale Ale (APA)",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": " MA",
+                    "children": [
+                        {
+                            "name": "American Amber / Red Ale",
+                            "size": 4
+                        },
+                        {
+                            "name": "American Amber / Red Lager",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Blonde Ale",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Double / Imperial IPA",
+                            "size": 3
+                        },
+                        {
+                            "name": "American IPA",
+                            "size": 19
+                        },
+                        {
+                            "name": "American India Pale Lager",
+                            "size": 3
+                        },
+                        {
+                            "name": "American Pale Ale (APA)",
+                            "size": 3
+                        },
+                        {
+                            "name": "American Pale Lager",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Pale Wheat Ale",
+                            "size": 3
+                        },
+                        {
+                            "name": "American Pilsner",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Stout",
+                            "size": 1
+                        },
+                        {
+                            "name": "American White IPA",
+                            "size": 1
+                        },
+                        {
+                            "name": "Bock",
+                            "size": 1
+                        },
+                        {
+                            "name": "Cider",
+                            "size": 3
+                        },
+                        {
+                            "name": "Czech Pilsener",
+                            "size": 1
+                        },
+                        {
+                            "name": "English India Pale Ale (IPA)",
+                            "size": 1
+                        },
+                        {
+                            "name": "English Pale Ale",
+                            "size": 3
+                        },
+                        {
+                            "name": "Extra Special / Strong Bitter (ESB)",
+                            "size": 1
+                        },
+                        {
+                            "name": "Fruit / Vegetable Beer",
+                            "size": 2
+                        },
+                        {
+                            "name": "German Pilsener",
+                            "size": 1
+                        },
+                        {
+                            "name": "Herbed / Spiced Beer",
+                            "size": 1
+                        },
+                        {
+                            "name": "Keller Bier / Zwickel Bier",
+                            "size": 1
+                        },
+                        {
+                            "name": "K\u00f6lsch",
+                            "size": 3
+                        },
+                        {
+                            "name": "Light Lager",
+                            "size": 2
+                        },
+                        {
+                            "name": "Munich Helles Lager",
+                            "size": 1
+                        },
+                        {
+                            "name": "M\u00e4rzen / Oktoberfest",
+                            "size": 3
+                        },
+                        {
+                            "name": "Other",
+                            "size": 1
+                        },
+                        {
+                            "name": "Pumpkin Ale",
+                            "size": 4
+                        },
+                        {
+                            "name": "Radler",
+                            "size": 1
+                        },
+                        {
+                            "name": "Rye Beer",
+                            "size": 2
+                        },
+                        {
+                            "name": "Saison / Farmhouse Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Vienna Lager",
+                            "size": 3
+                        },
+                        {
+                            "name": "Witbier",
+                            "size": 4
+                        }
+                    ]
+                },
+                {
+                    "name": " MD",
+                    "children": [
+                        {
+                            "name": "Altbier",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Black Ale",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Blonde Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Double / Imperial IPA",
+                            "size": 1
+                        },
+                        {
+                            "name": "American IPA",
+                            "size": 4
+                        },
+                        {
+                            "name": "American Pale Ale (APA)",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Pale Lager",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Porter",
+                            "size": 1
+                        },
+                        {
+                            "name": "Belgian IPA",
+                            "size": 1
+                        },
+                        {
+                            "name": "Belgian Pale Ale",
+                            "size": 2
+                        },
+                        {
+                            "name": "Cream Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Dubbel",
+                            "size": 1
+                        },
+                        {
+                            "name": "Gose",
+                            "size": 1
+                        },
+                        {
+                            "name": "M\u00e4rzen / Oktoberfest",
+                            "size": 1
+                        },
+                        {
+                            "name": "Rye Beer",
+                            "size": 1
+                        },
+                        {
+                            "name": "Saison / Farmhouse Ale",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": " ME",
+                    "children": [
+                        {
+                            "name": "American Amber / Red Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Blonde Ale",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Double / Imperial IPA",
+                            "size": 1
+                        },
+                        {
+                            "name": "American IPA",
+                            "size": 4
+                        },
+                        {
+                            "name": "American Pale Ale (APA)",
+                            "size": 4
+                        },
+                        {
+                            "name": "American Pale Wheat Ale",
+                            "size": 4
+                        },
+                        {
+                            "name": "American Pilsner",
+                            "size": 1
+                        },
+                        {
+                            "name": "California Common / Steam Beer",
+                            "size": 1
+                        },
+                        {
+                            "name": "English Pale Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Foreign / Export Stout",
+                            "size": 1
+                        },
+                        {
+                            "name": "Fruit / Vegetable Beer",
+                            "size": 1
+                        },
+                        {
+                            "name": "Gose",
+                            "size": 1
+                        },
+                        {
+                            "name": "Hefeweizen",
+                            "size": 1
+                        },
+                        {
+                            "name": "K\u00f6lsch",
+                            "size": 1
+                        },
+                        {
+                            "name": "Pumpkin Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Russian Imperial Stout",
+                            "size": 1
+                        },
+                        {
+                            "name": "Rye Beer",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": " NH",
+                    "children": [
+                        {
+                            "name": "American IPA",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Pale Ale (APA)",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Pilsner",
+                            "size": 1
+                        },
+                        {
+                            "name": "Berliner Weissbier",
+                            "size": 3
+                        },
+                        {
+                            "name": "English Brown Ale",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": " NJ",
+                    "children": [
+                        {
+                            "name": "American Black Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Double / Imperial IPA",
+                            "size": 1
+                        },
+                        {
+                            "name": "American IPA",
+                            "size": 3
+                        },
+                        {
+                            "name": "Berliner Weissbier",
+                            "size": 1
+                        },
+                        {
+                            "name": "Irish Dry Stout",
+                            "size": 1
+                        },
+                        {
+                            "name": "Witbier",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": " NY",
+                    "children": [
+                        {
+                            "name": "American Amber / Red Lager",
+                            "size": 3
+                        },
+                        {
+                            "name": "American Black Ale",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Blonde Ale",
+                            "size": 3
+                        },
+                        {
+                            "name": "American Brown Ale",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Double / Imperial IPA",
+                            "size": 3
+                        },
+                        {
+                            "name": "American IPA",
+                            "size": 11
+                        },
+                        {
+                            "name": "American Pale Ale (APA)",
+                            "size": 6
+                        },
+                        {
+                            "name": "American Pale Lager",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Pale Wheat Ale",
+                            "size": 3
+                        },
+                        {
+                            "name": "American Stout",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Strong Ale",
+                            "size": 2
+                        },
+                        {
+                            "name": "American White IPA",
+                            "size": 1
+                        },
+                        {
+                            "name": "Baltic Porter",
+                            "size": 2
+                        },
+                        {
+                            "name": "Belgian Pale Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Berliner Weissbier",
+                            "size": 1
+                        },
+                        {
+                            "name": "Cream Ale",
+                            "size": 3
+                        },
+                        {
+                            "name": "Czech Pilsener",
+                            "size": 1
+                        },
+                        {
+                            "name": "English India Pale Ale (IPA)",
+                            "size": 2
+                        },
+                        {
+                            "name": "English Pale Ale",
+                            "size": 2
+                        },
+                        {
+                            "name": "English Pale Mild Ale",
+                            "size": 2
+                        },
+                        {
+                            "name": "Euro Dark Lager",
+                            "size": 1
+                        },
+                        {
+                            "name": "Extra Special / Strong Bitter (ESB)",
+                            "size": 1
+                        },
+                        {
+                            "name": "Fruit / Vegetable Beer",
+                            "size": 2
+                        },
+                        {
+                            "name": "German Pilsener",
+                            "size": 3
+                        },
+                        {
+                            "name": "Gose",
+                            "size": 1
+                        },
+                        {
+                            "name": "Hefeweizen",
+                            "size": 1
+                        },
+                        {
+                            "name": "Light Lager",
+                            "size": 3
+                        },
+                        {
+                            "name": "Milk / Sweet Stout",
+                            "size": 1
+                        },
+                        {
+                            "name": "Munich Helles Lager",
+                            "size": 2
+                        },
+                        {
+                            "name": "M\u00e4rzen / Oktoberfest",
+                            "size": 1
+                        },
+                        {
+                            "name": "Pumpkin Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Rye Beer",
+                            "size": 2
+                        },
+                        {
+                            "name": "Saison / Farmhouse Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Shandy",
+                            "size": 1
+                        },
+                        {
+                            "name": "Vienna Lager",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": " PA",
+                    "children": [
+                        {
+                            "name": "American Adjunct Lager",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Amber / Red Ale",
+                            "size": 6
+                        },
+                        {
+                            "name": "American Amber / Red Lager",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Black Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Blonde Ale",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Brown Ale",
+                            "size": 3
+                        },
+                        {
+                            "name": "American Double / Imperial IPA",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Double / Imperial Pilsner",
+                            "size": 1
+                        },
+                        {
+                            "name": "American IPA",
+                            "size": 19
+                        },
+                        {
+                            "name": "American Pale Ale (APA)",
+                            "size": 6
+                        },
+                        {
+                            "name": "American Pale Lager",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Pale Wheat Ale",
+                            "size": 3
+                        },
+                        {
+                            "name": "American Pilsner",
+                            "size": 3
+                        },
+                        {
+                            "name": "American Porter",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Stout",
+                            "size": 4
+                        },
+                        {
+                            "name": "American White IPA",
+                            "size": 1
+                        },
+                        {
+                            "name": "Belgian Pale Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Belgian Strong Pale Ale",
+                            "size": 2
+                        },
+                        {
+                            "name": "Cider",
+                            "size": 2
+                        },
+                        {
+                            "name": "Doppelbock",
+                            "size": 2
+                        },
+                        {
+                            "name": "English Brown Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "English Dark Mild Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "English India Pale Ale (IPA)",
+                            "size": 1
+                        },
+                        {
+                            "name": "Fruit / Vegetable Beer",
+                            "size": 3
+                        },
+                        {
+                            "name": "German Pilsener",
+                            "size": 3
+                        },
+                        {
+                            "name": "Grisette",
+                            "size": 1
+                        },
+                        {
+                            "name": "Hefeweizen",
+                            "size": 1
+                        },
+                        {
+                            "name": "Herbed / Spiced Beer",
+                            "size": 1
+                        },
+                        {
+                            "name": "Irish Red Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "K\u00f6lsch",
+                            "size": 2
+                        },
+                        {
+                            "name": "Light Lager",
+                            "size": 1
+                        },
+                        {
+                            "name": "Maibock / Helles Bock",
+                            "size": 1
+                        },
+                        {
+                            "name": "Munich Dunkel Lager",
+                            "size": 1
+                        },
+                        {
+                            "name": "Munich Helles Lager",
+                            "size": 1
+                        },
+                        {
+                            "name": "M\u00e4rzen / Oktoberfest",
+                            "size": 3
+                        },
+                        {
+                            "name": "Oatmeal Stout",
+                            "size": 1
+                        },
+                        {
+                            "name": "Pumpkin Ale",
+                            "size": 3
+                        },
+                        {
+                            "name": "Saison / Farmhouse Ale",
+                            "size": 2
+                        },
+                        {
+                            "name": "Scottish Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Tripel",
+                            "size": 2
+                        },
+                        {
+                            "name": "Winter Warmer",
+                            "size": 3
+                        },
+                        {
+                            "name": "Witbier",
+                            "size": 2
+                        }
+                    ]
+                },
+                {
+                    "name": " RI",
+                    "children": [
+                        {
+                            "name": "American Amber / Red Ale",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Blonde Ale",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Double / Imperial IPA",
+                            "size": 1
+                        },
+                        {
+                            "name": "American IPA",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Pale Ale (APA)",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Pale Wheat Ale",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Pilsner",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Porter",
+                            "size": 3
+                        },
+                        {
+                            "name": "Bock",
+                            "size": 1
+                        },
+                        {
+                            "name": "Cream Ale",
+                            "size": 2
+                        },
+                        {
+                            "name": "German Pilsener",
+                            "size": 1
+                        },
+                        {
+                            "name": "K\u00f6lsch",
+                            "size": 1
+                        },
+                        {
+                            "name": "Light Lager",
+                            "size": 1
+                        },
+                        {
+                            "name": "Milk / Sweet Stout",
+                            "size": 1
+                        },
+                        {
+                            "name": "M\u00e4rzen / Oktoberfest",
+                            "size": 3
+                        },
+                        {
+                            "name": "Saison / Farmhouse Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Witbier",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": " VT",
+                    "children": [
+                        {
+                            "name": "Altbier",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Amber / Red Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Double / Imperial IPA",
+                            "size": 6
+                        },
+                        {
+                            "name": "American Double / Imperial Stout",
+                            "size": 1
+                        },
+                        {
+                            "name": "American IPA",
+                            "size": 4
+                        },
+                        {
+                            "name": "American Pale Ale (APA)",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Porter",
+                            "size": 1
+                        },
+                        {
+                            "name": "American White IPA",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Wild Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Cider",
+                            "size": 1
+                        },
+                        {
+                            "name": "English India Pale Ale (IPA)",
+                            "size": 1
+                        },
+                        {
+                            "name": "Fruit / Vegetable Beer",
+                            "size": 3
+                        },
+                        {
+                            "name": "German Pilsener",
+                            "size": 1
+                        },
+                        {
+                            "name": "Gose",
+                            "size": 1
+                        },
+                        {
+                            "name": "Hefeweizen",
+                            "size": 1
+                        },
+                        {
+                            "name": "Shandy",
+                            "size": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Rocky Mountain",
+            "children": [
+                {
+                    "name": " CO",
+                    "children": [
+                        {
+                            "name": "Altbier",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Amber / Red Ale",
+                            "size": 19
+                        },
+                        {
+                            "name": "American Amber / Red Lager",
+                            "size": 4
+                        },
+                        {
+                            "name": "American Black Ale",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Blonde Ale",
+                            "size": 11
+                        },
+                        {
+                            "name": "American Brown Ale",
+                            "size": 7
+                        },
+                        {
+                            "name": "American Dark Wheat Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Double / Imperial IPA",
+                            "size": 14
+                        },
+                        {
+                            "name": "American Double / Imperial Stout",
+                            "size": 1
+                        },
+                        {
+                            "name": "American IPA",
+                            "size": 40
+                        },
+                        {
+                            "name": "American Pale Ale (APA)",
+                            "size": 40
+                        },
+                        {
+                            "name": "American Pale Lager",
+                            "size": 6
+                        },
+                        {
+                            "name": "American Pale Wheat Ale",
+                            "size": 8
+                        },
+                        {
+                            "name": "American Pilsner",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Porter",
+                            "size": 6
+                        },
+                        {
+                            "name": "American Stout",
+                            "size": 8
+                        },
+                        {
+                            "name": "American Strong Ale",
+                            "size": 4
+                        },
+                        {
+                            "name": "American White IPA",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Wild Ale",
+                            "size": 2
+                        },
+                        {
+                            "name": "Belgian Dark Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Belgian IPA",
+                            "size": 1
+                        },
+                        {
+                            "name": "Belgian Pale Ale",
+                            "size": 2
+                        },
+                        {
+                            "name": "Belgian Strong Dark Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Belgian Strong Pale Ale",
+                            "size": 2
+                        },
+                        {
+                            "name": "California Common / Steam Beer",
+                            "size": 1
+                        },
+                        {
+                            "name": "Chile Beer",
+                            "size": 1
+                        },
+                        {
+                            "name": "Czech Pilsener",
+                            "size": 7
+                        },
+                        {
+                            "name": "Doppelbock",
+                            "size": 1
+                        },
+                        {
+                            "name": "English Bitter",
+                            "size": 1
+                        },
+                        {
+                            "name": "English Brown Ale",
+                            "size": 2
+                        },
+                        {
+                            "name": "English Dark Mild Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "English India Pale Ale (IPA)",
+                            "size": 1
+                        },
+                        {
+                            "name": "Euro Dark Lager",
+                            "size": 1
+                        },
+                        {
+                            "name": "Extra Special / Strong Bitter (ESB)",
+                            "size": 3
+                        },
+                        {
+                            "name": "Foreign / Export Stout",
+                            "size": 2
+                        },
+                        {
+                            "name": "Fruit / Vegetable Beer",
+                            "size": 3
+                        },
+                        {
+                            "name": "German Pilsener",
+                            "size": 2
+                        },
+                        {
+                            "name": "Hefeweizen",
+                            "size": 4
+                        },
+                        {
+                            "name": "Irish Dry Stout",
+                            "size": 1
+                        },
+                        {
+                            "name": "Irish Red Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "K\u00f6lsch",
+                            "size": 4
+                        },
+                        {
+                            "name": "Mead",
+                            "size": 3
+                        },
+                        {
+                            "name": "Munich Dunkel Lager",
+                            "size": 2
+                        },
+                        {
+                            "name": "Munich Helles Lager",
+                            "size": 1
+                        },
+                        {
+                            "name": "M\u00e4rzen / Oktoberfest",
+                            "size": 1
+                        },
+                        {
+                            "name": "Oatmeal Stout",
+                            "size": 1
+                        },
+                        {
+                            "name": "Old Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Pumpkin Ale",
+                            "size": 4
+                        },
+                        {
+                            "name": "Quadrupel (Quad)",
+                            "size": 1
+                        },
+                        {
+                            "name": "Roggenbier",
+                            "size": 1
+                        },
+                        {
+                            "name": "Russian Imperial Stout",
+                            "size": 5
+                        },
+                        {
+                            "name": "Rye Beer",
+                            "size": 1
+                        },
+                        {
+                            "name": "Saison / Farmhouse Ale",
+                            "size": 5
+                        },
+                        {
+                            "name": "Schwarzbier",
+                            "size": 1
+                        },
+                        {
+                            "name": "Scotch Ale / Wee Heavy",
+                            "size": 3
+                        },
+                        {
+                            "name": "Scottish Ale",
+                            "size": 4
+                        },
+                        {
+                            "name": "Tripel",
+                            "size": 1
+                        },
+                        {
+                            "name": "Vienna Lager",
+                            "size": 4
+                        },
+                        {
+                            "name": "Winter Warmer",
+                            "size": 2
+                        },
+                        {
+                            "name": "Witbier",
+                            "size": 3
+                        }
+                    ]
+                },
+                {
+                    "name": " ID",
+                    "children": [
+                        {
+                            "name": "American Amber / Red Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Barleywine",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Blonde Ale",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Brown Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Double / Imperial IPA",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Double / Imperial Stout",
+                            "size": 1
+                        },
+                        {
+                            "name": "American IPA",
+                            "size": 6
+                        },
+                        {
+                            "name": "American Pale Ale (APA)",
+                            "size": 4
+                        },
+                        {
+                            "name": "American Pale Lager",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Pale Wheat Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Pilsner",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Porter",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Strong Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Cream Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "K\u00f6lsch",
+                            "size": 1
+                        },
+                        {
+                            "name": "Maibock / Helles Bock",
+                            "size": 1
+                        },
+                        {
+                            "name": "M\u00e4rzen / Oktoberfest",
+                            "size": 1
+                        },
+                        {
+                            "name": "Saison / Farmhouse Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Witbier",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": " MT",
+                    "children": [
+                        {
+                            "name": "American Amber / Red Ale",
+                            "size": 3
+                        },
+                        {
+                            "name": "American Blonde Ale",
+                            "size": 3
+                        },
+                        {
+                            "name": "American Brown Ale",
+                            "size": 4
+                        },
+                        {
+                            "name": "American IPA",
+                            "size": 8
+                        },
+                        {
+                            "name": "American Pale Ale (APA)",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Pale Lager",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Pale Wheat Ale",
+                            "size": 3
+                        },
+                        {
+                            "name": "American Porter",
+                            "size": 2
+                        },
+                        {
+                            "name": "Bock",
+                            "size": 1
+                        },
+                        {
+                            "name": "English Pale Ale",
+                            "size": 2
+                        },
+                        {
+                            "name": "English Strong Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Hefeweizen",
+                            "size": 2
+                        },
+                        {
+                            "name": "Irish Dry Stout",
+                            "size": 1
+                        },
+                        {
+                            "name": "K\u00f6lsch",
+                            "size": 1
+                        },
+                        {
+                            "name": "Munich Helles Lager",
+                            "size": 1
+                        },
+                        {
+                            "name": "Scotch Ale / Wee Heavy",
+                            "size": 2
+                        },
+                        {
+                            "name": "Scottish Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Witbier",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": " UT",
+                    "children": [
+                        {
+                            "name": "Altbier",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Amber / Red Lager",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Blonde Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Brown Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Double / Imperial IPA",
+                            "size": 2
+                        },
+                        {
+                            "name": "American IPA",
+                            "size": 4
+                        },
+                        {
+                            "name": "American Pale Ale (APA)",
+                            "size": 4
+                        },
+                        {
+                            "name": "American Pale Wheat Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "American White IPA",
+                            "size": 2
+                        },
+                        {
+                            "name": "California Common / Steam Beer",
+                            "size": 1
+                        },
+                        {
+                            "name": "Czech Pilsener",
+                            "size": 1
+                        },
+                        {
+                            "name": "Doppelbock",
+                            "size": 1
+                        },
+                        {
+                            "name": "Dortmunder / Export Lager",
+                            "size": 1
+                        },
+                        {
+                            "name": "Fruit / Vegetable Beer",
+                            "size": 1
+                        },
+                        {
+                            "name": "Pumpkin Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Schwarzbier",
+                            "size": 2
+                        },
+                        {
+                            "name": "Vienna Lager",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": " WY",
+                    "children": [
+                        {
+                            "name": "American Amber / Red Ale",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Blonde Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Brown Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "American IPA",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Pale Ale (APA)",
+                            "size": 3
+                        },
+                        {
+                            "name": "American Pale Wheat Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Pilsner",
+                            "size": 1
+                        },
+                        {
+                            "name": "English Brown Ale",
+                            "size": 2
+                        },
+                        {
+                            "name": "Foreign / Export Stout",
+                            "size": 1
+                        },
+                        {
+                            "name": "Vienna Lager",
+                            "size": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "South",
+            "children": [
+                {
+                    "name": " AL",
+                    "children": [
+                        {
+                            "name": "American Brown Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Double / Imperial IPA",
+                            "size": 1
+                        },
+                        {
+                            "name": "American IPA",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Pale Ale (APA)",
+                            "size": 2
+                        },
+                        {
+                            "name": "English Brown Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "K\u00f6lsch",
+                            "size": 1
+                        },
+                        {
+                            "name": "Milk / Sweet Stout",
+                            "size": 1
+                        },
+                        {
+                            "name": "Oatmeal Stout",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": " AR",
+                    "children": [
+                        {
+                            "name": "American Amber / Red Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Pale Ale (APA)",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Pilsner",
+                            "size": 1
+                        },
+                        {
+                            "name": "Extra Special / Strong Bitter (ESB)",
+                            "size": 1
+                        },
+                        {
+                            "name": "Oatmeal Stout",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": " FL",
+                    "children": [
+                        {
+                            "name": "Altbier",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Amber / Red Ale",
+                            "size": 3
+                        },
+                        {
+                            "name": "American Black Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Blonde Ale",
+                            "size": 3
+                        },
+                        {
+                            "name": "American Brown Ale",
+                            "size": 5
+                        },
+                        {
+                            "name": "American IPA",
+                            "size": 19
+                        },
+                        {
+                            "name": "American Pale Ale (APA)",
+                            "size": 7
+                        },
+                        {
+                            "name": "American Pale Wheat Ale",
+                            "size": 3
+                        },
+                        {
+                            "name": "American Porter",
+                            "size": 2
+                        },
+                        {
+                            "name": "Berliner Weissbier",
+                            "size": 1
+                        },
+                        {
+                            "name": "Bock",
+                            "size": 1
+                        },
+                        {
+                            "name": "Cream Ale",
+                            "size": 2
+                        },
+                        {
+                            "name": "English Brown Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Fruit / Vegetable Beer",
+                            "size": 2
+                        },
+                        {
+                            "name": "Irish Red Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Munich Helles Lager",
+                            "size": 2
+                        },
+                        {
+                            "name": "M\u00e4rzen / Oktoberfest",
+                            "size": 1
+                        },
+                        {
+                            "name": "Oatmeal Stout",
+                            "size": 1
+                        },
+                        {
+                            "name": "Witbier",
+                            "size": 2
+                        }
+                    ]
+                },
+                {
+                    "name": " GA",
+                    "children": [
+                        {
+                            "name": "American Blonde Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Brown Ale",
+                            "size": 3
+                        },
+                        {
+                            "name": "American IPA",
+                            "size": 3
+                        },
+                        {
+                            "name": "American Pale Ale (APA)",
+                            "size": 3
+                        },
+                        {
+                            "name": "Berliner Weissbier",
+                            "size": 1
+                        },
+                        {
+                            "name": "Czech Pilsener",
+                            "size": 1
+                        },
+                        {
+                            "name": "German Pilsener",
+                            "size": 1
+                        },
+                        {
+                            "name": "Hefeweizen",
+                            "size": 1
+                        },
+                        {
+                            "name": "Saison / Farmhouse Ale",
+                            "size": 2
+                        }
+                    ]
+                },
+                {
+                    "name": " KY",
+                    "children": [
+                        {
+                            "name": "American Amber / Red Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Brown Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Double / Imperial IPA",
+                            "size": 2
+                        },
+                        {
+                            "name": "American IPA",
+                            "size": 4
+                        },
+                        {
+                            "name": "American Pale Ale (APA)",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Pilsner",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Porter",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Wild Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Belgian Pale Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "English Barleywine",
+                            "size": 1
+                        },
+                        {
+                            "name": "English Brown Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "German Pilsener",
+                            "size": 1
+                        },
+                        {
+                            "name": "Herbed / Spiced Beer",
+                            "size": 1
+                        },
+                        {
+                            "name": "K\u00f6lsch",
+                            "size": 1
+                        },
+                        {
+                            "name": "Milk / Sweet Stout",
+                            "size": 1
+                        },
+                        {
+                            "name": "Pumpkin Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Saison / Farmhouse Ale",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": " LA",
+                    "children": [
+                        {
+                            "name": "American Amber / Red Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Amber / Red Lager",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Blonde Ale",
+                            "size": 3
+                        },
+                        {
+                            "name": "American Double / Imperial IPA",
+                            "size": 1
+                        },
+                        {
+                            "name": "American IPA",
+                            "size": 3
+                        },
+                        {
+                            "name": "American Pale Ale (APA)",
+                            "size": 3
+                        },
+                        {
+                            "name": "American Pale Lager",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Porter",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Stout",
+                            "size": 1
+                        },
+                        {
+                            "name": "English Dark Mild Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Fruit / Vegetable Beer",
+                            "size": 2
+                        },
+                        {
+                            "name": "K\u00f6lsch",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": " MS",
+                    "children": [
+                        {
+                            "name": "American Amber / Red Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Blonde Ale",
+                            "size": 2
+                        },
+                        {
+                            "name": "American IPA",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Pale Ale (APA)",
+                            "size": 2
+                        },
+                        {
+                            "name": "Belgian Pale Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "English Dark Mild Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Extra Special / Strong Bitter (ESB)",
+                            "size": 1
+                        },
+                        {
+                            "name": "Oatmeal Stout",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": " NC",
+                    "children": [
+                        {
+                            "name": "American Amber / Red Ale",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Blonde Ale",
+                            "size": 5
+                        },
+                        {
+                            "name": "American Brown Ale",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Double / Imperial IPA",
+                            "size": 2
+                        },
+                        {
+                            "name": "American IPA",
+                            "size": 9
+                        },
+                        {
+                            "name": "American Pale Ale (APA)",
+                            "size": 9
+                        },
+                        {
+                            "name": "American Pale Wheat Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Porter",
+                            "size": 4
+                        },
+                        {
+                            "name": "American Stout",
+                            "size": 1
+                        },
+                        {
+                            "name": "Belgian Strong Pale Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Cream Ale",
+                            "size": 2
+                        },
+                        {
+                            "name": "English Dark Mild Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "English India Pale Ale (IPA)",
+                            "size": 1
+                        },
+                        {
+                            "name": "Extra Special / Strong Bitter (ESB)",
+                            "size": 1
+                        },
+                        {
+                            "name": "Hefeweizen",
+                            "size": 2
+                        },
+                        {
+                            "name": "K\u00f6lsch",
+                            "size": 3
+                        },
+                        {
+                            "name": "M\u00e4rzen / Oktoberfest",
+                            "size": 1
+                        },
+                        {
+                            "name": "Pumpkin Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Russian Imperial Stout",
+                            "size": 1
+                        },
+                        {
+                            "name": "Scotch Ale / Wee Heavy",
+                            "size": 1
+                        },
+                        {
+                            "name": "Scottish Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Tripel",
+                            "size": 1
+                        },
+                        {
+                            "name": "Vienna Lager",
+                            "size": 1
+                        },
+                        {
+                            "name": "Winter Warmer",
+                            "size": 2
+                        },
+                        {
+                            "name": "Witbier",
+                            "size": 4
+                        }
+                    ]
+                },
+                {
+                    "name": " OK",
+                    "children": [
+                        {
+                            "name": "American Amber / Red Ale",
+                            "size": 3
+                        },
+                        {
+                            "name": "American Amber / Red Lager",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Blonde Ale",
+                            "size": 3
+                        },
+                        {
+                            "name": "American Dark Wheat Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "American IPA",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Pale Lager",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Pale Wheat Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Porter",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Stout",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Strong Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Belgian Pale Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Witbier",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": " SC",
+                    "children": [
+                        {
+                            "name": "American Brown Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Double / Imperial IPA",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Double / Imperial Stout",
+                            "size": 1
+                        },
+                        {
+                            "name": "American IPA",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Pale Ale (APA)",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Porter",
+                            "size": 1
+                        },
+                        {
+                            "name": "Belgian Pale Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "English Brown Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Gose",
+                            "size": 1
+                        },
+                        {
+                            "name": "K\u00f6lsch",
+                            "size": 1
+                        },
+                        {
+                            "name": "Witbier",
+                            "size": 2
+                        }
+                    ]
+                },
+                {
+                    "name": " TN",
+                    "children": [
+                        {
+                            "name": "American IPA",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Pale Ale (APA)",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Pilsner",
+                            "size": 1
+                        },
+                        {
+                            "name": "Czech Pilsener",
+                            "size": 1
+                        },
+                        {
+                            "name": "Saison / Farmhouse Ale",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": " TX",
+                    "children": [
+                        {
+                            "name": "Altbier",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Adjunct Lager",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Amber / Red Ale",
+                            "size": 6
+                        },
+                        {
+                            "name": "American Amber / Red Lager",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Black Ale",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Blonde Ale",
+                            "size": 10
+                        },
+                        {
+                            "name": "American Brown Ale",
+                            "size": 3
+                        },
+                        {
+                            "name": "American Double / Imperial IPA",
+                            "size": 10
+                        },
+                        {
+                            "name": "American Double / Imperial Stout",
+                            "size": 1
+                        },
+                        {
+                            "name": "American IPA",
+                            "size": 12
+                        },
+                        {
+                            "name": "American Pale Ale (APA)",
+                            "size": 13
+                        },
+                        {
+                            "name": "American Pale Lager",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Pale Wheat Ale",
+                            "size": 6
+                        },
+                        {
+                            "name": "American Pilsner",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Porter",
+                            "size": 3
+                        },
+                        {
+                            "name": "American Stout",
+                            "size": 3
+                        },
+                        {
+                            "name": "Baltic Porter",
+                            "size": 2
+                        },
+                        {
+                            "name": "Berliner Weissbier",
+                            "size": 1
+                        },
+                        {
+                            "name": "Bi\u00e8re de Garde",
+                            "size": 2
+                        },
+                        {
+                            "name": "Bock",
+                            "size": 1
+                        },
+                        {
+                            "name": "Cream Ale",
+                            "size": 2
+                        },
+                        {
+                            "name": "Czech Pilsener",
+                            "size": 2
+                        },
+                        {
+                            "name": "Dunkelweizen",
+                            "size": 2
+                        },
+                        {
+                            "name": "English Bitter",
+                            "size": 1
+                        },
+                        {
+                            "name": "English Brown Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "English India Pale Ale (IPA)",
+                            "size": 1
+                        },
+                        {
+                            "name": "English Pale Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Euro Pale Lager",
+                            "size": 1
+                        },
+                        {
+                            "name": "Foreign / Export Stout",
+                            "size": 1
+                        },
+                        {
+                            "name": "German Pilsener",
+                            "size": 3
+                        },
+                        {
+                            "name": "Gose",
+                            "size": 1
+                        },
+                        {
+                            "name": "Hefeweizen",
+                            "size": 3
+                        },
+                        {
+                            "name": "Keller Bier / Zwickel Bier",
+                            "size": 1
+                        },
+                        {
+                            "name": "K\u00f6lsch",
+                            "size": 2
+                        },
+                        {
+                            "name": "Light Lager",
+                            "size": 1
+                        },
+                        {
+                            "name": "Maibock / Helles Bock",
+                            "size": 1
+                        },
+                        {
+                            "name": "Munich Dunkel Lager",
+                            "size": 1
+                        },
+                        {
+                            "name": "Munich Helles Lager",
+                            "size": 2
+                        },
+                        {
+                            "name": "M\u00e4rzen / Oktoberfest",
+                            "size": 1
+                        },
+                        {
+                            "name": "Old Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Rye Beer",
+                            "size": 1
+                        },
+                        {
+                            "name": "Saison / Farmhouse Ale",
+                            "size": 9
+                        },
+                        {
+                            "name": "Schwarzbier",
+                            "size": 1
+                        },
+                        {
+                            "name": "Smoked Beer",
+                            "size": 1
+                        },
+                        {
+                            "name": "Witbier",
+                            "size": 5
+                        }
+                    ]
+                },
+                {
+                    "name": " VA",
+                    "children": [
+                        {
+                            "name": "Altbier",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Amber / Red Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Amber / Red Lager",
+                            "size": 3
+                        },
+                        {
+                            "name": "American Double / Imperial IPA",
+                            "size": 1
+                        },
+                        {
+                            "name": "American IPA",
+                            "size": 10
+                        },
+                        {
+                            "name": "American Pale Ale (APA)",
+                            "size": 7
+                        },
+                        {
+                            "name": "American Pilsner",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Porter",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Stout",
+                            "size": 1
+                        },
+                        {
+                            "name": "Belgian Pale Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Cream Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Czech Pilsener",
+                            "size": 1
+                        },
+                        {
+                            "name": "Euro Pale Lager",
+                            "size": 1
+                        },
+                        {
+                            "name": "Extra Special / Strong Bitter (ESB)",
+                            "size": 1
+                        },
+                        {
+                            "name": "German Pilsener",
+                            "size": 1
+                        },
+                        {
+                            "name": "Irish Red Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "K\u00f6lsch",
+                            "size": 2
+                        },
+                        {
+                            "name": "M\u00e4rzen / Oktoberfest",
+                            "size": 1
+                        },
+                        {
+                            "name": "Rye Beer",
+                            "size": 1
+                        },
+                        {
+                            "name": "Saison / Farmhouse Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Scotch Ale / Wee Heavy",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": " WV",
+                    "children": [
+                        {
+                            "name": "American Black Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Pale Ale (APA)",
+                            "size": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "West",
+            "children": [
+                {
+                    "name": " AK",
+                    "children": [
+                        {
+                            "name": "Altbier",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Amber / Red Ale",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Blonde Ale",
+                            "size": 3
+                        },
+                        {
+                            "name": "American Brown Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "American IPA",
+                            "size": 7
+                        },
+                        {
+                            "name": "American Pale Ale (APA)",
+                            "size": 2
+                        },
+                        {
+                            "name": "Cream Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Czech Pilsener",
+                            "size": 1
+                        },
+                        {
+                            "name": "English Pale Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Hefeweizen",
+                            "size": 1
+                        },
+                        {
+                            "name": "Irish Dry Stout",
+                            "size": 1
+                        },
+                        {
+                            "name": "Irish Red Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Scottish Ale",
+                            "size": 2
+                        },
+                        {
+                            "name": "Witbier",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": " AZ",
+                    "children": [
+                        {
+                            "name": "American Amber / Red Ale",
+                            "size": 6
+                        },
+                        {
+                            "name": "American Blonde Ale",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Double / Imperial IPA",
+                            "size": 1
+                        },
+                        {
+                            "name": "American IPA",
+                            "size": 9
+                        },
+                        {
+                            "name": "American Pale Ale (APA)",
+                            "size": 4
+                        },
+                        {
+                            "name": "American Pale Wheat Ale",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Pilsner",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Porter",
+                            "size": 4
+                        },
+                        {
+                            "name": "Belgian IPA",
+                            "size": 1
+                        },
+                        {
+                            "name": "Fruit / Vegetable Beer",
+                            "size": 3
+                        },
+                        {
+                            "name": "Hefeweizen",
+                            "size": 3
+                        },
+                        {
+                            "name": "Herbed / Spiced Beer",
+                            "size": 1
+                        },
+                        {
+                            "name": "K\u00f6lsch",
+                            "size": 2
+                        },
+                        {
+                            "name": "Light Lager",
+                            "size": 1
+                        },
+                        {
+                            "name": "M\u00e4rzen / Oktoberfest",
+                            "size": 1
+                        },
+                        {
+                            "name": "Scottish Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Winter Warmer",
+                            "size": 1
+                        },
+                        {
+                            "name": "Witbier",
+                            "size": 2
+                        }
+                    ]
+                },
+                {
+                    "name": " CA",
+                    "children": [
+                        {
+                            "name": "American Amber / Red Ale",
+                            "size": 11
+                        },
+                        {
+                            "name": "American Amber / Red Lager",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Barleywine",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Black Ale",
+                            "size": 5
+                        },
+                        {
+                            "name": "American Blonde Ale",
+                            "size": 7
+                        },
+                        {
+                            "name": "American Brown Ale",
+                            "size": 5
+                        },
+                        {
+                            "name": "American Double / Imperial IPA",
+                            "size": 11
+                        },
+                        {
+                            "name": "American Double / Imperial Stout",
+                            "size": 1
+                        },
+                        {
+                            "name": "American IPA",
+                            "size": 45
+                        },
+                        {
+                            "name": "American Pale Ale (APA)",
+                            "size": 17
+                        },
+                        {
+                            "name": "American Pale Lager",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Pale Wheat Ale",
+                            "size": 4
+                        },
+                        {
+                            "name": "American Porter",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Stout",
+                            "size": 2
+                        },
+                        {
+                            "name": "Baltic Porter",
+                            "size": 2
+                        },
+                        {
+                            "name": "Belgian Dark Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Belgian IPA",
+                            "size": 1
+                        },
+                        {
+                            "name": "Belgian Pale Ale",
+                            "size": 2
+                        },
+                        {
+                            "name": "California Common / Steam Beer",
+                            "size": 1
+                        },
+                        {
+                            "name": "Cream Ale",
+                            "size": 6
+                        },
+                        {
+                            "name": "Czech Pilsener",
+                            "size": 2
+                        },
+                        {
+                            "name": "Dubbel",
+                            "size": 1
+                        },
+                        {
+                            "name": "English Brown Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "English India Pale Ale (IPA)",
+                            "size": 1
+                        },
+                        {
+                            "name": "English Strong Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Fruit / Vegetable Beer",
+                            "size": 5
+                        },
+                        {
+                            "name": "German Pilsener",
+                            "size": 5
+                        },
+                        {
+                            "name": "Gose",
+                            "size": 3
+                        },
+                        {
+                            "name": "Hefeweizen",
+                            "size": 5
+                        },
+                        {
+                            "name": "Herbed / Spiced Beer",
+                            "size": 1
+                        },
+                        {
+                            "name": "Kristalweizen",
+                            "size": 1
+                        },
+                        {
+                            "name": "K\u00f6lsch",
+                            "size": 7
+                        },
+                        {
+                            "name": "Low Alcohol Beer",
+                            "size": 1
+                        },
+                        {
+                            "name": "Maibock / Helles Bock",
+                            "size": 1
+                        },
+                        {
+                            "name": "Milk / Sweet Stout",
+                            "size": 1
+                        },
+                        {
+                            "name": "Munich Helles Lager",
+                            "size": 2
+                        },
+                        {
+                            "name": "Oatmeal Stout",
+                            "size": 3
+                        },
+                        {
+                            "name": "Pumpkin Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Rye Beer",
+                            "size": 1
+                        },
+                        {
+                            "name": "Saison / Farmhouse Ale",
+                            "size": 3
+                        },
+                        {
+                            "name": "Scotch Ale / Wee Heavy",
+                            "size": 1
+                        },
+                        {
+                            "name": "Tripel",
+                            "size": 1
+                        },
+                        {
+                            "name": "Vienna Lager",
+                            "size": 1
+                        },
+                        {
+                            "name": "Wheat Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Winter Warmer",
+                            "size": 3
+                        },
+                        {
+                            "name": "Witbier",
+                            "size": 3
+                        }
+                    ]
+                },
+                {
+                    "name": " HI",
+                    "children": [
+                        {
+                            "name": "American Amber / Red Ale",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Amber / Red Lager",
+                            "size": 4
+                        },
+                        {
+                            "name": "American Blonde Ale",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Brown Ale",
+                            "size": 3
+                        },
+                        {
+                            "name": "American IPA",
+                            "size": 4
+                        },
+                        {
+                            "name": "American Pale Ale (APA)",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Pale Wheat Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Porter",
+                            "size": 2
+                        },
+                        {
+                            "name": "Belgian Strong Dark Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Czech Pilsener",
+                            "size": 1
+                        },
+                        {
+                            "name": "Flanders Red Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Fruit / Vegetable Beer",
+                            "size": 1
+                        },
+                        {
+                            "name": "Munich Helles Lager",
+                            "size": 1
+                        },
+                        {
+                            "name": "Saison / Farmhouse Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Witbier",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": " NM",
+                    "children": [
+                        {
+                            "name": "American Amber / Red Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Black Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "American IPA",
+                            "size": 4
+                        },
+                        {
+                            "name": "German Pilsener",
+                            "size": 2
+                        },
+                        {
+                            "name": "Hefeweizen",
+                            "size": 1
+                        },
+                        {
+                            "name": "Irish Red Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Milk / Sweet Stout",
+                            "size": 1
+                        },
+                        {
+                            "name": "M\u00e4rzen / Oktoberfest",
+                            "size": 1
+                        },
+                        {
+                            "name": "Russian Imperial Stout",
+                            "size": 1
+                        },
+                        {
+                            "name": "Saison / Farmhouse Ale",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": " NV",
+                    "children": [
+                        {
+                            "name": "American Adjunct Lager",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Amber / Red Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Black Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Double / Imperial IPA",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Pale Ale (APA)",
+                            "size": 1
+                        },
+                        {
+                            "name": "Belgian IPA",
+                            "size": 1
+                        },
+                        {
+                            "name": "Hefeweizen",
+                            "size": 1
+                        },
+                        {
+                            "name": "Herbed / Spiced Beer",
+                            "size": 1
+                        },
+                        {
+                            "name": "Maibock / Helles Bock",
+                            "size": 1
+                        },
+                        {
+                            "name": "Schwarzbier",
+                            "size": 2
+                        }
+                    ]
+                },
+                {
+                    "name": " OR",
+                    "children": [
+                        {
+                            "name": "Altbier",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Adjunct Lager",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Amber / Red Ale",
+                            "size": 10
+                        },
+                        {
+                            "name": "American Amber / Red Lager",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Black Ale",
+                            "size": 4
+                        },
+                        {
+                            "name": "American Blonde Ale",
+                            "size": 6
+                        },
+                        {
+                            "name": "American Double / Imperial IPA",
+                            "size": 6
+                        },
+                        {
+                            "name": "American Double / Imperial Stout",
+                            "size": 1
+                        },
+                        {
+                            "name": "American IPA",
+                            "size": 24
+                        },
+                        {
+                            "name": "American Pale Ale (APA)",
+                            "size": 13
+                        },
+                        {
+                            "name": "American Pale Lager",
+                            "size": 4
+                        },
+                        {
+                            "name": "American Pale Wheat Ale",
+                            "size": 15
+                        },
+                        {
+                            "name": "American Pilsner",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Porter",
+                            "size": 4
+                        },
+                        {
+                            "name": "American Stout",
+                            "size": 3
+                        },
+                        {
+                            "name": "American Strong Ale",
+                            "size": 3
+                        },
+                        {
+                            "name": "American White IPA",
+                            "size": 1
+                        },
+                        {
+                            "name": "Belgian Pale Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Cider",
+                            "size": 8
+                        },
+                        {
+                            "name": "Czech Pilsener",
+                            "size": 2
+                        },
+                        {
+                            "name": "Dunkelweizen",
+                            "size": 1
+                        },
+                        {
+                            "name": "Euro Dark Lager",
+                            "size": 1
+                        },
+                        {
+                            "name": "Fruit / Vegetable Beer",
+                            "size": 1
+                        },
+                        {
+                            "name": "Hefeweizen",
+                            "size": 2
+                        },
+                        {
+                            "name": "K\u00f6lsch",
+                            "size": 3
+                        },
+                        {
+                            "name": "Mead",
+                            "size": 2
+                        },
+                        {
+                            "name": "Radler",
+                            "size": 2
+                        },
+                        {
+                            "name": "Scottish Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Witbier",
+                            "size": 2
+                        }
+                    ]
+                },
+                {
+                    "name": " WA",
+                    "children": [
+                        {
+                            "name": "American Adjunct Lager",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Amber / Red Ale",
+                            "size": 5
+                        },
+                        {
+                            "name": "American Amber / Red Lager",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Blonde Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Brown Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Double / Imperial IPA",
+                            "size": 1
+                        },
+                        {
+                            "name": "American IPA",
+                            "size": 21
+                        },
+                        {
+                            "name": "American Pale Ale (APA)",
+                            "size": 11
+                        },
+                        {
+                            "name": "American Pale Lager",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Pale Wheat Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Pilsner",
+                            "size": 2
+                        },
+                        {
+                            "name": "American Porter",
+                            "size": 1
+                        },
+                        {
+                            "name": "American Stout",
+                            "size": 1
+                        },
+                        {
+                            "name": "Belgian Strong Dark Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Cider",
+                            "size": 5
+                        },
+                        {
+                            "name": "Czech Pilsener",
+                            "size": 2
+                        },
+                        {
+                            "name": "English Pale Ale",
+                            "size": 2
+                        },
+                        {
+                            "name": "English Strong Ale",
+                            "size": 1
+                        },
+                        {
+                            "name": "Euro Dark Lager",
+                            "size": 1
+                        },
+                        {
+                            "name": "Hefeweizen",
+                            "size": 2
+                        },
+                        {
+                            "name": "K\u00f6lsch",
+                            "size": 1
+                        },
+                        {
+                            "name": "Light Lager",
+                            "size": 1
+                        },
+                        {
+                            "name": "Saison / Farmhouse Ale",
+                            "size": 2
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
