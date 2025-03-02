@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Beer Bubble Chart</title>
+    <script src="https://d3js.org/d3.v6.min.js"></script> <!-- ✅ Load D3.js -->
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; }
+        .tooltip {
+            position: absolute;
+            background: #333;
+            color: white;
+            padding: 5px;
+            border-radius: 5px;
+            visibility: hidden;
+        }
+        svg { background: #f9f9f9; }
+    </style>
+</head>
+<body>
+
+<h2>Beer Production by Region, State, and Style</h2>
+<svg width="900" height="700"></svg>
+<div class="tooltip"></div>
+<script>
+    // Attach an event listener to the window resize event
+    window.addEventListener("resize", function() {
+        location.reload(); // Refresh the page
+    });
+
+    d3.json("beer_data.json").then(function(data) {
+        console.log("Data loaded:", data);
+
+        const width = 900, height = 700;
+        const color = d3.scaleOrdinal(d3.schemeCategory10);
+
+        // Convert to D3 hierarchy format
+        const root = d3.hierarchy(data).sum(d => d.size || 1);
+        console.log("Hierarchy root:", root);
+
+        // Create pack layout
+        const pack = d3.pack().size([width, height]).padding(5);
+        pack(root);
+
+        const svg = d3.select("svg");
+        const tooltip = d3.select(".tooltip");
+
+        // Create bubbles
+        const node = svg.selectAll("circle")
+            .data(root.descendants().slice(1)) // Ignore root
+            .enter()
+            .append("circle")
+            .attr("cx", d => d.x)
+            .attr("cy", d => d.y)
+            .attr("r", 0) // Start small, animate in
+            .style("fill", d => color(d.depth))
+            .on("mouseover", (event, d) => {
+                // Function to calculate the sum of all descendants' sizes (children, grandchildren, etc.)
+                const sumDescendantsSizes = (node) => {
+                    if (!node.children || node.children.length === 0) {
+                        return 0; // No children, return 0
+                    }
+                    return node.children.reduce((sum, child) => {
+                        return sum + (child.data.size || 0) + sumDescendantsSizes(child); // Include child's size and its descendants' sizes
+                    }, 0);
+                };
+
+                // Determine the size to display
+                const sizeToDisplay = d.data.size || sumDescendantsSizes(d);
+
+                tooltip.style("visibility", "visible")
+                    .text(`${d.data.name} (${sizeToDisplay} beers)`) // Use the calculated size
+                    .style("top", (event.pageY - 10) + "px")
+                    .style("left", (event.pageX + 10) + "px")
+                    .style("z-index", "10");
+            })
+            .on("mousemove", (event) => {
+                tooltip.style("top", (event.pageY - 10) + "px")
+                       .style("left", (event.pageX + 10) + "px");
+            })
+            .on("mouseout", () => {
+                tooltip.style("visibility", "hidden");
+            });
+
+        // Animate bubbles
+        node.transition()
+            .duration(1000)
+            .attr("r", d => d.r);
+
+        // Get the midpoint of the SVG to determine left vs. right positioning
+        const svgRect = svg.node().getBoundingClientRect(); // Get SVG's absolute position
+        const svgMidpoint = svgRect.left + svgRect.width / 2; // Midpoint in absolute coordinates
+
+        // Create labels for only the first level of children (root's immediate children)
+        const labels = d3.select("body").selectAll(".bubble-label")
+            .data(root.children) // Select only direct children of the root
+            .enter()
+            .append("div")
+            .attr("class", "bubble-label")
+            .style("position", "absolute")
+            .style("z-index", "5") // Ensure it's above the SVG
+            .style("pointer-events", "none") // Prevent interference with bubbles
+            .style("background", "rgba(255, 255, 255, 0.9)") // Slightly more opaque background
+            .style("padding", "5px 10px") // Increased padding for better spacing
+            .style("border-radius", "8px") // Rounded corners
+            .style("font-size", "16px") // Larger font size for better readability
+            .style("font-weight", "bold") // Bold text for emphasis
+            .style("color", "#333") // Darker text color for contrast
+            .style("box-shadow", "0 2px 6px rgba(0, 0, 0, 0.2)") // Subtle shadow for depth
+            .style("transition", "transform 0.2s") // Smooth hover effect
+            .style("padding", "2px 5px")
+            .style("border-radius", "4px")
+            .style("font-size", "14px")
+            .style("font-weight", "bold")
+            .text(d => d.data.name)
+            .style("left", d => {
+                let baseLeft = d.x + svgRect.left < svgMidpoint 
+                    ? svgRect.left + d.x - d.r - 55  // Left side: position to the left
+                    : svgRect.left + d.x + d.r + 5;  // Right side: position to the right
+
+                // Special adjustment for "Midwest"
+                if (d.data.name === "Midwest") {
+                    baseLeft -= 20; // Move slightly more to the left
+                }
+
+                return `${baseLeft}px`;
+            })
+                
+            .style("top", d => {
+                let baseTop = svgRect.top + d.y + window.scrollY; // Default position
+
+                // Special adjustment for "South"
+                if (d.data.name === "South") {
+                    baseTop -= 20; // Move slightly higher
+                }
+
+                return `${baseTop}px`;
+            })
+            .style("text-align", d => d.x + svgRect.left < svgMidpoint ? "right" : "left"); // Align text properly
+
+    }).catch(function(error) {
+        console.error("Error loading JSON:", error);
+    });
+</script>
+
+</body>
+</html>
